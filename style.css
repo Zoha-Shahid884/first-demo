@@ -1,0 +1,226 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+    height: 30px;
+    width: 100%;
+    background-color:#FFFFFF;
+    display: flex;
+    align-items: center;
+    border-bottom: 2px solid gray;
+}
+.link{
+    display: flex;
+    justify-content: center;
+    font-size: 15px;
+    margin-left: 30px;
+    font-weight: bold;
+}
+
+.link1{
+   margin-left: 20px;
+} 
+
+.daily{
+    margin-left: 10px;
+}
+
+.help{
+    margin-left: 10px;
+}
+
+.brand{
+    margin-left: 10px;
+}
+
+.gift{
+    margin-left: 10px;
+}
+
+.ship{
+    margin-left: 800px;
+}
+
+.sell{
+    margin-left: 10px;
+}
+
+.watch{
+    margin-left: 10px;
+}
+
+.myebay{
+    margin-left: 10px;
+}
+
+.bell{
+    margin-left: 10px;
+}
+
+.cart{
+    margin-left: 10px;
+}
+
+.carts{
+    margin-left: 10px;
+}
+
+.navbar2{
+    height: 80px;
+    width: 100%;
+    background-color: white;
+    display: flex;
+    margin: 10px;
+    border-bottom: 2px solid gray;
+    align-items: center;
+    
+}
+
+.shop{
+    color: gray;
+    margin-left: 10px;
+    align-items: center;
+}
+
+.inputbox input{
+    height: 40px;
+    width: 1100px;
+    margin-left: 20px;
+    font-size:20px ;
+    border-radius: 30px;
+}
+
+.btn button{
+    height: 45px;
+    width: 150px;
+    color: #FFFFFF;
+    background-color: blue;
+    border: none;
+    margin-left: 10px;
+    border-radius: 20px;
+
+}
+
+.adv{
+    margin-left: 100px;
+    color: gray;
+}
+
+.adv:hover{
+    color: blue;
+}
+
+.navbar3{
+    height: 30px;
+    width: 100%;
+    background-color:#FFFFFF ;
+    display: flex;
+    align-items: center;
+    border-bottom: 2px solid gray;
+}
+
+.listitems{
+    align-items: center;
+    display: flex;
+    margin-left: 700px;
+
+}
+
+.listitems p{
+    margin-left: 20px;
+}
+
+.listitems:hover p:first-child{
+    color: blue;
+}
+
+.pic{
+    width: 100vw;
+    height: 100%;
+    margin-left: 900px;
+    
+}
+
+.navbar4{
+    height: 100px;
+    width: 100%;
+    background-color:#FFFFFF ;
+    display: flex;
+    align-items: center;
+    margin-left: 50px;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.image{
+    width: 100%; 
+    height:400px;
+    background-color: #FFBD14;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.image p:first-child{
+    color: #553b06;
+    font-size: 50px;
+    font-weight: bold;
+    margin-left: 50px;
+    display: flex;
+    
+}
+
+
+.image2{
+    display: flex;
+    width: 300px;
+    height: 285px;
+}
+
+.fav{
+    height: 80px;
+    background-color: #F7F7F7;
+    padding: 50px;
+    margin: 50px;
+    border-radius: 20px;
+    display: flex;
+}
+
+.btn1 button{
+    height: 50px;
+    width: 100px;
+    border-radius: 30px;
+    border: 2px solid black;
+    margin-left: 1000px;
+    font-weight: bold;
+}
+
+.btn1 button:hover{
+    background-color: black;
+    color: white;
+}
+
+.footer{
+    height: 200px;
+    background-color: #F7F7F7;
+     display: flex;
+    font-size: 1.5rem; 
+    justify-content: center;
+    align-items: center;
+
+}
+
+.insta{
+    margin-left: 20px;
+
+}
+
+.FB{
+    margin-left: 20px;
+}
+
+.linkd{
+    margin-left: 20px  ;
+}
